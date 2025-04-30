@@ -13,7 +13,8 @@ This summary presents key findings derived from the analysis of Alt Mobility's c
 
 *Order & Sales Performance (Based on SQL Analysis):
 
-Order fulfillment appears generally successful, with a majority likely reaching 'delivered' status. However, monitoring the volume and duration of orders in 'shipped' or 'pending' states is advisable to identify potential bottlenecks.
+  Order fulfillment appears generally successful, with a majority likely reaching 'delivered' status. However, monitoring the volume and duration of orders in 
+  'shipped' or 'pending' states is advisable to identify potential bottlenecks.
 
 Monthly revenue likely shows an upward trend, reflecting business growth.
 
