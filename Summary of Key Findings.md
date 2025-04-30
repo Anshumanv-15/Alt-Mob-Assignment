@@ -2,16 +2,16 @@
 
 
 
-##Introduction
+-INTRODUCTION
 
 This summary presents key findings derived from the analysis of Alt Mobility's customer order and payment data, covering order fulfillment, customer behavior, payment success, and cohort-based retention. The insights are drawn from both SQL query results and Power BI visualizations, leading to actionable recommendations aimed at supporting Alt Mobility's rapid growth.
 
 
 
-##Key Insights & Observations
+-KEY INSIGHTS AND OBSERVATIONS
 
 
-###Order & Sales Performance (Based on SQL Analysis):
+*Order & Sales Performance (Based on SQL Analysis):
 
 Order fulfillment appears generally successful, with a majority likely reaching 'delivered' status. However, monitoring the volume and duration of orders in 'shipped' or 'pending' states is advisable to identify potential bottlenecks.
 
@@ -20,7 +20,7 @@ Monthly revenue likely shows an upward trend, reflecting business growth.
 The Average Order Value (AOV) provides a baseline for customer transaction size.
 
 
-###Customer Behavior & Overall Retention (SQL & Power BI):
+*Customer Behavior & Overall Retention (SQL & Power BI):
 
 A significant portion of customers likely place only one order, typical for many business models.
 
@@ -29,14 +29,14 @@ Strong Overall Retention: The gauge chart indicates an Overall Customer Retentio
 Growing Repeat Business Volume: The bar charts show a clear upward trend in the absolute number of retained customers making purchases month-over-month and year-over-year (particularly noticeable growth from 2021 through 2024). This validates that Alt Mobility is successfully engaging a larger base of returning customers over time.
 
 
-###Payment System Performance (Based on SQL Analysis):
+*Payment System Performance (Based on SQL Analysis):
 
 While overall payment success rates might be high, specific payment methods (e.g., potentially bank transfers or less common methods) may exhibit lower success rates, warranting investigation into failure reasons (user error, technical issues, insufficient funds).
 
 Monitoring trends in payment failures month-over-month can help proactively identify emerging issues with payment gateways or processes.
 
 
-###Customer Cohort Retention Analysis (Power BI Heatmap):
+*Customer Cohort Retention Analysis (Power BI Heatmap):
 
 Initial Drop-off: As expected, the most significant drop in retention occurs between Month 0 (initial purchase) and Month 1. Typically, only a fraction of the original cohort remains active after the first month.
 
@@ -48,7 +48,7 @@ Long-Term Engagement: Even after extended periods (e.g., 12+ months), a measurab
 
 
 
-##Recommendations for Alt Mobility
+-RECOMMENDATION FOR ALT MOBILITY
 
 Enhance Early Customer Engagement: Given the typical drop-off after the first month, implement or strengthen onboarding sequences, welcome offers, or check-in communications within the first 30-60 days to encourage the second purchase and improve Month 1 retention.
 
@@ -63,6 +63,6 @@ Monitor Fulfillment Process: Keep a close watch on orders staying in 'pending' o
 
 
 
-##Conclusion
+-CONCLUSION
 
 The analysis indicates a healthy pattern of customer retention and growing repeat business volume at Alt Mobility. The high overall retention rate is encouraging. By focusing on early engagement, optimizing payment processes, and nurturing long-term customers, Alt Mobility can further strengthen its customer relationships and sustain its impressive growth trajectory in the EV leasing market.
